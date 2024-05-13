@@ -232,7 +232,7 @@ function ne(e) {
         i.width === t && e.splice(s, 1), t = i.width
     }
 }
-const oe = "http://127.0.0.1:5001",
+const oe = "https://dev.bbgroup.ch",
     ae = (e, {
         modifiers: t = {},
         baseURL: s = oe
@@ -307,7 +307,7 @@ R.providers = {
     storyblok: {
         provider: de,
         defaults: {
-            baseURL: "http://127.0.0.1:5501"
+            baseURL: "https://dev.bbgroup.ch"
         }
     },
     vercel: {
