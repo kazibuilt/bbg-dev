@@ -1,0 +1,1 @@
+var l=(X=>(X[X.XSmall=390]="XSmall",X[X.Small=834]="Small",X[X.Medium=1024]="Medium",X[X.Large=1280]="Large",X[X.Xlarge=1440]="Xlarge",X[X.XXLarge=1680]="XXLarge",X[X.XXXLarge=1920]="XXXLarge",X))(l||{});export{l as B};

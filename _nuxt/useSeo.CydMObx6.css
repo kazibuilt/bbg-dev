@@ -1,0 +1,1101 @@
+[data-v-8e98293e]:root {
+    --color-black: #000;
+    --color-blue: #ec1c24;
+    --color-green: #00b982;
+    --color-greyDark: #1d1e20;
+    --color-greyLight: #efefef;
+    --color-greyLighter: #f8f8f8;
+    --color-offBlack: #0f1012;
+    --color-offWhite: #f2f2f4;
+    --color-orange: #ff5102;
+    --color-yellow: #fca311;
+    --color-white: #fff;
+    --font-base: "PP Neue Montreal";
+    --header-height: 7.9rem;
+    --grid-columnCount: 5;
+    --grid-gutter: 2.5641025641vw;
+    --grid-outerGutter: 5.1282051282vw
+}
+
+@media only screen and (min-width:834px) {
+    [data-v-8e98293e]:root {
+        --grid-gutter: 2.3980815348vw;
+        --grid-outerGutter: 4.7961630695vw
+    }
+}
+
+.arrow-link[data-v-8e98293e] {
+    align-items: center;
+    -moz-column-gap: 1.9rem;
+    column-gap: 1.9rem;
+    display: inline-flex;
+    font-size: 1.6rem;
+    font-weight: 350;
+    letter-spacing: -.02em;
+    line-height: 1.2
+}
+
+@media only screen and (min-width:834px) {
+    .arrow-link[data-v-8e98293e] {
+        font-size: 1.4rem
+    }
+}
+
+@media only screen and (min-width:1440px) {
+    .arrow-link[data-v-8e98293e] {
+        font-size: 1.6rem
+    }
+}
+
+.arrow-link.large[data-v-8e98293e] {
+    font-size: 1.8rem;
+    font-weight: 350;
+    letter-spacing: -.02em;
+    line-height: 1.2
+}
+
+@media only screen and (min-width:1440px) {
+    .arrow-link.large[data-v-8e98293e] {
+        font-size: 2rem
+    }
+}
+
+.arrow-link.down[data-v-8e98293e] {
+    -moz-column-gap: 0;
+    column-gap: 0;
+    flex-direction: column;
+    row-gap: 2.5rem;
+    text-align: center
+}
+
+.arrow-link.blue[data-v-8e98293e] {
+    color: var(--color-blue)
+}
+
+.arrow-link.green[data-v-8e98293e] {
+    color: var(--color-green)
+}
+
+.arrow-link.off-white[data-v-8e98293e] {
+    color: var(--color-offWhite)
+}
+
+.arrow-link.orange[data-v-8e98293e] {
+    color: var(--color-orange)
+}
+
+.arrow-link.white[data-v-8e98293e] {
+    color: var(--color-white)
+}
+
+.arrow-link.yellow[data-v-8e98293e] {
+    color: var(--color-yellow)
+}
+
+@media only screen and (min-width:834px) {
+    .arrow-link[data-v-8e98293e] {
+        -moz-column-gap: 2.1rem;
+        column-gap: 2.1rem
+    }
+
+    .arrow-link.down[data-v-8e98293e] {
+        -moz-column-gap: 3.5rem;
+        column-gap: 3.5rem;
+        flex-direction: row;
+        row-gap: 0;
+        text-align: left
+    }
+}
+
+.icon-wrapper[data-v-8e98293e] {
+    align-items: center;
+    border: 1.2px solid;
+    border-radius: 94px;
+    display: flex;
+    height: 2.05rem;
+    justify-content: center;
+    overflow: hidden;
+    position: relative;
+    width: 3.35rem
+}
+
+.down .icon-wrapper[data-v-8e98293e] {
+    height: 3.35rem;
+    width: 2.5rem
+}
+
+@media only screen and (min-width:834px) {
+    .icon-wrapper[data-v-8e98293e] {
+        height: 1.4rem;
+        width: 2.2rem
+    }
+
+    .large .icon-wrapper[data-v-8e98293e] {
+        height: 2.06rem;
+        width: 3.36rem
+    }
+
+    .down .icon-wrapper[data-v-8e98293e] {
+        height: 2.2rem;
+        width: 1.4rem
+    }
+
+    .large.down .icon-wrapper[data-v-8e98293e] {
+        height: 3rem;
+        width: 1.8rem
+    }
+}
+
+.icon[data-v-8e98293e] {
+    display: block
+}
+
+.icon[data-v-8e98293e]:nth-child(2) {
+    opacity: 0;
+    position: absolute;
+    visibility: hidden
+}
+
+[data-v-0881c556]:root {
+    --color-black: #000;
+    --color-blue: #ec1c24;
+    --color-green: #00b982;
+    --color-greyDark: #1d1e20;
+    --color-greyLight: #efefef;
+    --color-greyLighter: #f8f8f8;
+    --color-offBlack: #0f1012;
+    --color-offWhite: #f2f2f4;
+    --color-orange: #ff5102;
+    --color-yellow: #fca311;
+    --color-white: #fff;
+    --font-base: "PP Neue Montreal";
+    --header-height: 7.9rem;
+    --grid-columnCount: 5;
+    --grid-gutter: 2.5641025641vw;
+    --grid-outerGutter: 5.1282051282vw
+}
+
+@media only screen and (min-width:834px) {
+    [data-v-0881c556]:root {
+        --grid-gutter: 2.3980815348vw;
+        --grid-outerGutter: 4.7961630695vw
+    }
+}
+
+.title-reveal[data-v-0881c556] {
+    opacity: 0;
+    visibility: hidden
+}
+
+[data-v-3bf90bcf]:root {
+    --color-black: #000;
+    --color-blue: #ec1c24;
+    --color-green: #00b982;
+    --color-greyDark: #1d1e20;
+    --color-greyLight: #efefef;
+    --color-greyLighter: #f8f8f8;
+    --color-offBlack: #0f1012;
+    --color-offWhite: #f2f2f4;
+    --color-orange: #ff5102;
+    --color-yellow: #fca311;
+    --color-white: #fff;
+    --font-base: "PP Neue Montreal";
+    --header-height: 7.9rem;
+    --grid-columnCount: 5;
+    --grid-gutter: 2.5641025641vw;
+    --grid-outerGutter: 5.1282051282vw
+}
+
+@media only screen and (min-width:834px) {
+    [data-v-3bf90bcf]:root {
+        --grid-gutter: 2.3980815348vw;
+        --grid-outerGutter: 4.7961630695vw
+    }
+}
+
+.container[data-v-3bf90bcf] {
+    -moz-column-gap: var(--grid-gutter);
+    column-gap: var(--grid-gutter);
+    display: grid;
+    grid-template-columns: repeat(var(--grid-columnCount), 1fr);
+    padding: 0 var(--grid-outerGutter)
+}
+
+[data-v-56fc5564]:root {
+    --color-black: #000;
+    --color-blue: #ec1c24;
+    --color-green: #00b982;
+    --color-greyDark: #1d1e20;
+    --color-greyLight: #efefef;
+    --color-greyLighter: #f8f8f8;
+    --color-offBlack: #0f1012;
+    --color-offWhite: #f2f2f4;
+    --color-orange: #ff5102;
+    --color-yellow: #fca311;
+    --color-white: #fff;
+    --font-base: "PP Neue Montreal";
+    --header-height: 7.9rem;
+    --grid-columnCount: 5;
+    --grid-gutter: 2.5641025641vw;
+    --grid-outerGutter: 5.1282051282vw
+}
+
+@media only screen and (min-width:834px) {
+    [data-v-56fc5564]:root {
+        --grid-gutter: 2.3980815348vw;
+        --grid-outerGutter: 4.7961630695vw
+    }
+}
+
+.section.bg-black[data-v-56fc5564] {
+    background-color: var(--color-black);
+    color: var(--color-offWhite)
+}
+
+.section.bg-blue[data-v-56fc5564] {
+    background-color: var(--color-blue);
+    color: var(--color-offWhite)
+}
+
+.section.bg-grey-light[data-v-56fc5564] {
+    background-color: var(--color-greyLight);
+    color: var(--color-offBlack)
+}
+
+.section.bg-grey-lighter[data-v-56fc5564] {
+    background-color: var(--color-greyLighter);
+    color: var(--color-offBlack)
+}
+
+.section.bg-off-black[data-v-56fc5564] {
+    background-color: var(--color-offBlack);
+    color: var(--color-offWhite)
+}
+
+.section.bg-off-white[data-v-56fc5564] {
+    background-color: var(--color-offWhite);
+    color: var(--color-offBlack)
+}
+
+.section.bg-orange[data-v-56fc5564] {
+    background-color: var(--color-orange);
+    color: var(--color-offWhite)
+}
+
+.section.bg-yellow[data-v-56fc5564] {
+    background-color: var(--color-yellow);
+    color: var(--color-offBlack)
+}
+
+[data-v-0454bd25]:root {
+    --color-black: #000;
+    --color-blue: #ec1c24;
+    --color-green: #00b982;
+    --color-greyDark: #1d1e20;
+    --color-greyLight: #efefef;
+    --color-greyLighter: #f8f8f8;
+    --color-offBlack: #0f1012;
+    --color-offWhite: #f2f2f4;
+    --color-orange: #ff5102;
+    --color-yellow: #fca311;
+    --color-white: #fff;
+    --font-base: "PP Neue Montreal";
+    --header-height: 7.9rem;
+    --grid-columnCount: 5;
+    --grid-gutter: 2.5641025641vw;
+    --grid-outerGutter: 5.1282051282vw
+}
+
+@media only screen and (min-width:834px) {
+    [data-v-0454bd25]:root {
+        --grid-gutter: 2.3980815348vw;
+        --grid-outerGutter: 4.7961630695vw
+    }
+}
+
+.copy-reveal[data-v-0454bd25] {
+    opacity: 0;
+    visibility: hidden
+}
+
+.copy-reveal[data-v-0454bd25]>* {
+    will-change: transform
+}
+
+[data-v-5dec9cee]:root {
+    --color-black: #000;
+    --color-blue: #ec1c24;
+    --color-green: #00b982;
+    --color-greyDark: #1d1e20;
+    --color-greyLight: #efefef;
+    --color-greyLighter: #f8f8f8;
+    --color-offBlack: #0f1012;
+    --color-offWhite: #f2f2f4;
+    --color-orange: #ff5102;
+    --color-yellow: #fca311;
+    --color-white: #fff;
+    --font-base: "PP Neue Montreal";
+    --header-height: 7.9rem;
+    --grid-columnCount: 5;
+    --grid-gutter: 2.5641025641vw;
+    --grid-outerGutter: 5.1282051282vw
+}
+
+@media only screen and (min-width:834px) {
+    [data-v-5dec9cee]:root {
+        --grid-gutter: 2.3980815348vw;
+        --grid-outerGutter: 4.7961630695vw
+    }
+}
+
+.pill[data-v-5dec9cee] {
+    background: transparent;
+    border-radius: 5.4rem;
+    display: inline-flex;
+    font-size: 1.6rem;
+    font-weight: 350;
+    letter-spacing: -.02em;
+    line-height: 1.2;
+    overflow: hidden;
+    padding: .21rem 1.1rem .36rem;
+    position: relative;
+    transition: background-color .3s, color .3s;
+    white-space: nowrap
+}
+
+@media only screen and (min-width:834px) {
+    .pill[data-v-5dec9cee] {
+        font-size: 1.4rem
+    }
+}
+
+@media only screen and (min-width:1440px) {
+    .pill[data-v-5dec9cee] {
+        font-size: 1.6rem
+    }
+}
+
+.pill.small[data-v-5dec9cee] {
+    font-size: 1rem;
+    font-weight: 350;
+    letter-spacing: -.02em;
+    line-height: 1.2
+}
+
+@media only screen and (min-width:1440px) {
+    .pill.small[data-v-5dec9cee] {
+        font-size: 1.2rem
+    }
+}
+
+.pill[data-v-5dec9cee]:not(.filled) {
+    border: .72px solid
+}
+
+.pill:not(.filled).blue[data-v-5dec9cee] {
+    color: var(--color-blue)
+}
+
+.pill:not(.filled).orange[data-v-5dec9cee] {
+    color: var(--color-orange)
+}
+
+.pill:not(.filled).off-black[data-v-5dec9cee] {
+    color: var(--color-offBlack)
+}
+
+.pill:not(.filled).white[data-v-5dec9cee] {
+    color: var(--color-white)
+}
+
+.pill:not(.filled).yellow[data-v-5dec9cee] {
+    color: var(--color-yellow)
+}
+
+.pill.filled.blue[data-v-5dec9cee] {
+    background-color: var(--color-blue);
+    color: var(--color-white)
+}
+
+.pill.filled.off-black[data-v-5dec9cee] {
+    background-color: #0202011a;
+    color: var(--color-offBlack)
+}
+
+.pill.filled.orange[data-v-5dec9cee] {
+    background-color: var(--color-orange);
+    color: var(--color-offBlack)
+}
+
+.pill.filled.white[data-v-5dec9cee] {
+    background-color: #ffffff1a;
+    color: var(--color-white)
+}
+
+.pill.filled.yellow[data-v-5dec9cee] {
+    background-color: var(--color-yellow);
+    color: var(--color-offBlack)
+}
+
+.label[data-v-5dec9cee] {
+    display: block
+}
+
+.label[data-v-5dec9cee]:nth-child(2) {
+    opacity: 0;
+    position: absolute;
+    visibility: hidden
+}
+
+[data-v-6a77b8bd]:root {
+    --color-black: #000;
+    --color-blue: #ec1c24;
+    --color-green: #00b982;
+    --color-greyDark: #1d1e20;
+    --color-greyLight: #efefef;
+    --color-greyLighter: #f8f8f8;
+    --color-offBlack: #0f1012;
+    --color-offWhite: #f2f2f4;
+    --color-orange: #ff5102;
+    --color-yellow: #fca311;
+    --color-white: #fff;
+    --font-base: "PP Neue Montreal";
+    --header-height: 7.9rem;
+    --grid-columnCount: 5;
+    --grid-gutter: 2.5641025641vw;
+    --grid-outerGutter: 5.1282051282vw
+}
+
+@media only screen and (min-width:834px) {
+    [data-v-6a77b8bd]:root {
+        --grid-gutter: 2.3980815348vw;
+        --grid-outerGutter: 4.7961630695vw
+    }
+}
+
+.scroll-indicator[data-v-6a77b8bd] {
+    align-items: center;
+    border-radius: 3.4rem;
+    display: flex;
+    height: 5.1rem;
+    justify-content: center;
+    opacity: 0;
+    overflow: hidden;
+    position: relative;
+    visibility: hidden;
+    width: 2.4rem
+}
+
+.scroll-indicator.black[data-v-6a77b8bd] {
+    background-color: #0c0d0f0d;
+    color: #020201
+}
+
+.scroll-indicator.white[data-v-6a77b8bd] {
+    background-color: #ffffff1a;
+    color: var(--color-greyLight)
+}
+
+@media only screen and (min-width:834px) {
+    .scroll-indicator[data-v-6a77b8bd] {
+        border-radius: 2.6rem;
+        height: 4rem;
+        width: 1.8rem
+    }
+}
+
+.icon[data-v-6a77b8bd] {
+    display: block
+}
+
+.icon[data-v-6a77b8bd]:nth-child(2) {
+    opacity: 0;
+    position: absolute;
+    visibility: hidden
+}
+
+[data-v-9ff808e1]:root {
+    --color-black: #000;
+    --color-blue: #ec1c24;
+    --color-green: #00b982;
+    --color-greyDark: #1d1e20;
+    --color-greyLight: #efefef;
+    --color-greyLighter: #f8f8f8;
+    --color-offBlack: #0f1012;
+    --color-offWhite: #f2f2f4;
+    --color-orange: #ff5102;
+    --color-yellow: #fca311;
+    --color-white: #fff;
+    --font-base: "PP Neue Montreal";
+    --header-height: 7.9rem;
+    --grid-columnCount: 5;
+    --grid-gutter: 2.5641025641vw;
+    --grid-outerGutter: 5.1282051282vw
+}
+
+@media only screen and (min-width:834px) {
+    [data-v-9ff808e1]:root {
+        --grid-gutter: 2.3980815348vw;
+        --grid-outerGutter: 4.7961630695vw
+    }
+}
+
+.text-block[data-v-9ff808e1] {
+    padding: 23.0769230769vw 0
+}
+
+@media only screen and (min-width:834px) {
+    .text-block[data-v-9ff808e1] {
+        padding: 10vw 0
+    }
+}
+
+.text-block-container[data-v-9ff808e1] {
+    opacity: 0;
+    row-gap: 9rem;
+    visibility: hidden
+}
+
+@media only screen and (min-width:834px) {
+    .text-block-container[data-v-9ff808e1] {
+        row-gap: 0
+    }
+}
+
+.item[data-v-9ff808e1] {
+    grid-column: 1/-1
+}
+
+@media only screen and (max-width:833px) {
+    .item[data-v-9ff808e1]:not(:last-child) {
+        border-bottom: .5px solid rgba(15, 16, 18, .2);
+        padding-bottom: 9rem
+    }
+}
+
+@media only screen and (min-width:834px) {
+    .item[data-v-9ff808e1]:first-child {
+        grid-column: 2/4
+    }
+
+    .item[data-v-9ff808e1]:nth-child(2) {
+        grid-column: 4/6
+    }
+}
+
+.content[data-v-9ff808e1] {
+    display: flex;
+    flex-direction: column;
+    row-gap: 3rem
+}
+
+@media only screen and (min-width:834px) {
+    .content[data-v-9ff808e1] {
+        -moz-column-gap: 3.8rem;
+        column-gap: 3.8rem;
+        flex-direction: row;
+        row-gap: 0
+    }
+}
+
+.number[data-v-9ff808e1] {
+    font-size: 1.6rem;
+    font-weight: 350;
+    letter-spacing: -.02em;
+    line-height: 1.2;
+    margin: 0 auto
+}
+
+@media only screen and (min-width:834px) {
+    .number[data-v-9ff808e1] {
+        font-size: 1.4rem
+    }
+}
+
+@media only screen and (min-width:1440px) {
+    .number[data-v-9ff808e1] {
+        font-size: 1.6rem
+    }
+}
+
+.blue .number[data-v-9ff808e1] {
+    color: var(--color-blue)
+}
+
+.green .number[data-v-9ff808e1] {
+    color: var(--color-green)
+}
+
+.orange .number[data-v-9ff808e1] {
+    color: var(--color-orange)
+}
+
+.yellow .number[data-v-9ff808e1] {
+    color: var(--color-yellow)
+}
+
+@media only screen and (min-width:834px) {
+    .number[data-v-9ff808e1] {
+        margin: .4rem 0 0
+    }
+}
+
+.inner[data-v-9ff808e1] {
+    align-items: center;
+    display: flex;
+    flex-direction: column
+}
+
+@media only screen and (min-width:834px) {
+    .inner[data-v-9ff808e1] {
+        align-items: flex-start
+    }
+}
+
+.title[data-v-9ff808e1] {
+    font-size: 2.5rem;
+    font-weight: 350;
+    letter-spacing: -.02em;
+    line-height: 1.2
+}
+
+@media only screen and (min-width:1440px) {
+    .title[data-v-9ff808e1] {
+        font-size: 2.7rem
+    }
+}
+
+.copy[data-v-9ff808e1] {
+    font-size: 1.6rem;
+    font-weight: 350;
+    letter-spacing: -.02em;
+    line-height: 1.2;
+    margin-top: 3.6rem;
+    max-width: 28rem;
+    opacity: .5;
+    text-align: center
+}
+
+@media only screen and (min-width:834px) {
+    .copy[data-v-9ff808e1] {
+        font-size: 1.4rem
+    }
+}
+
+@media only screen and (min-width:1440px) {
+    .copy[data-v-9ff808e1] {
+        font-size: 1.6rem
+    }
+}
+
+@media only screen and (min-width:834px) {
+    .copy[data-v-9ff808e1] {
+        margin-top: 2.2rem;
+        max-width: 19rem;
+        text-align: left
+    }
+}
+
+@media only screen and (min-width:1440px) {
+    .copy[data-v-9ff808e1] {
+        max-width: 21rem
+    }
+}
+
+.link[data-v-9ff808e1] {
+    margin-top: 4rem;
+    opacity: 0;
+    visibility: hidden
+}
+
+@media only screen and (min-width:834px) {
+    .link[data-v-9ff808e1] {
+        margin-top: 3.6rem
+    }
+}
+
+[data-v-dc1d6225]:root {
+    --color-black: #000;
+    --color-blue: #ec1c24;
+    --color-green: #00b982;
+    --color-greyDark: #1d1e20;
+    --color-greyLight: #efefef;
+    --color-greyLighter: #f8f8f8;
+    --color-offBlack: #0f1012;
+    --color-offWhite: #f2f2f4;
+    --color-orange: #ff5102;
+    --color-yellow: #fca311;
+    --color-white: #fff;
+    --font-base: "PP Neue Montreal";
+    --header-height: 7.9rem;
+    --grid-columnCount: 5;
+    --grid-gutter: 2.5641025641vw;
+    --grid-outerGutter: 5.1282051282vw
+}
+
+@media only screen and (min-width:834px) {
+    [data-v-dc1d6225]:root {
+        --grid-gutter: 2.3980815348vw;
+        --grid-outerGutter: 4.7961630695vw
+    }
+}
+
+.sticky-logo[data-v-dc1d6225] {
+    display: none;
+    pointer-events: none
+}
+
+@media only screen and (min-width:834px) {
+    .sticky-logo[data-v-dc1d6225] {
+        display: block;
+        height: 100%;
+        left: 0;
+        position: absolute;
+        top: 0;
+        width: 100%
+    }
+}
+
+.inner[data-v-dc1d6225] {
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    padding-left: var(--grid-outerGutter);
+    position: sticky;
+    top: 0
+}
+
+@media only screen and (min-width:834px) {
+    .logo-wrapper[data-v-dc1d6225] {
+        align-items: center;
+        border-radius: 1.5px;
+        display: flex;
+        height: 3.2rem;
+        justify-content: center;
+        pointer-events: all;
+        transition: background-color .2s, color .2s;
+        width: 5.6rem
+    }
+
+    .background-blue .logo-wrapper[data-v-dc1d6225] {
+        background-color: var(--color-blue)
+    }
+
+    .background-green .logo-wrapper[data-v-dc1d6225] {
+        background-color: var(--color-green)
+    }
+
+    .background-off-black .logo-wrapper[data-v-dc1d6225] {
+        background-color: var(--color-offBlack)
+    }
+
+    .background-off-white .logo-wrapper[data-v-dc1d6225] {
+        background-color: var(--color-offWhite)
+    }
+
+    .background-orange .logo-wrapper[data-v-dc1d6225] {
+        background-color: var(--color-orange)
+    }
+
+    .background-yellow .logo-wrapper[data-v-dc1d6225] {
+        background-color: var(--color-yellow)
+    }
+
+    .icon-blue .logo-wrapper[data-v-dc1d6225] {
+        color: var(--color-blue)
+    }
+
+    .icon-off-black .logo-wrapper[data-v-dc1d6225] {
+        color: var(--color-offBlack)
+    }
+
+    .icon-off-white .logo-wrapper[data-v-dc1d6225] {
+        color: var(--color-offWhite)
+    }
+
+    .icon-orange .logo-wrapper[data-v-dc1d6225] {
+        color: var(--color-orange)
+    }
+
+    .icon-yellow .logo-wrapper[data-v-dc1d6225] {
+        color: var(--color-yellow)
+    }
+}
+
+.icon[data-v-dc1d6225] {
+    height: 1.9rem;
+    width: 1.9rem
+}
+
+[data-v-e16278ef]:root {
+    --color-black: #000;
+    --color-blue: #ec1c24;
+    --color-green: #00b982;
+    --color-greyDark: #1d1e20;
+    --color-greyLight: #efefef;
+    --color-greyLighter: #f8f8f8;
+    --color-offBlack: #0f1012;
+    --color-offWhite: #f2f2f4;
+    --color-orange: #ff5102;
+    --color-yellow: #fca311;
+    --color-white: #fff;
+    --font-base: "PP Neue Montreal";
+    --header-height: 7.9rem;
+    --grid-columnCount: 5;
+    --grid-gutter: 2.5641025641vw;
+    --grid-outerGutter: 5.1282051282vw
+}
+
+@media only screen and (min-width:834px) {
+    [data-v-e16278ef]:root {
+        --grid-gutter: 2.3980815348vw;
+        --grid-outerGutter: 4.7961630695vw
+    }
+}
+
+.main[data-v-e16278ef] {
+    position: relative
+}
+
+[data-v-47bb011d]:root {
+    --color-black: #000;
+    --color-blue: #ec1c24;
+    --color-green: #00b982;
+    --color-greyDark: #1d1e20;
+    --color-greyLight: #efefef;
+    --color-greyLighter: #f8f8f8;
+    --color-offBlack: #0f1012;
+    --color-offWhite: #f2f2f4;
+    --color-orange: #ff5102;
+    --color-yellow: #fca311;
+    --color-white: #fff;
+    --font-base: "PP Neue Montreal";
+    --header-height: 7.9rem;
+    --grid-columnCount: 5;
+    --grid-gutter: 2.5641025641vw;
+    --grid-outerGutter: 5.1282051282vw
+}
+
+@media only screen and (min-width:834px) {
+    [data-v-47bb011d]:root {
+        --grid-gutter: 2.3980815348vw;
+        --grid-outerGutter: 4.7961630695vw
+    }
+}
+
+.footer[data-v-47bb011d] {
+    background-color: var(--color-offBlack);
+    color: var(--color-offWhite);
+    padding: 4.7rem 0 3rem
+}
+
+@media only screen and (min-width:834px) {
+    .footer[data-v-47bb011d] {
+        padding: 3.4722222222vw 0 2.7777777778vw
+    }
+}
+
+.wordmark[data-v-47bb011d] {
+    margin-bottom: 8rem
+}
+
+.wordmark[data-v-47bb011d] svg {
+    height: auto;
+    width: 7.2rem
+}
+
+@media only screen and (min-width:834px) {
+    .wordmark[data-v-47bb011d] {
+        margin-bottom: 0
+    }
+
+    .wordmark[data-v-47bb011d] svg {
+        width: 137.7rem
+    }
+}
+
+.links-group[data-v-47bb011d] {
+    display: flex;
+    grid-column: 1/-1
+}
+
+.links-group+.links-group[data-v-47bb011d] {
+    margin-top: 10.7rem
+}
+
+.links-group:has(~.links-group:hover) .links-list-item[data-v-47bb011d],
+.links-group:hover~.links-group .links-list-item[data-v-47bb011d] {
+    opacity: .5
+}
+
+@media only screen and (min-width:834px) {
+    .links-group[data-v-47bb011d] {
+        grid-column: 4/5
+    }
+
+    .links-group+.links-group[data-v-47bb011d] {
+        margin-top: 9.0277777778vw
+    }
+}
+
+.links-label[data-v-47bb011d] {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.6rem;
+    font-weight: 350;
+    letter-spacing: -.02em;
+    line-height: 1.2;
+    width: 15.8974358974vw
+}
+
+@media only screen and (min-width:834px) {
+    .links-label[data-v-47bb011d] {
+        font-size: 1.4rem
+    }
+}
+
+@media only screen and (min-width:1440px) {
+    .links-label[data-v-47bb011d] {
+        font-size: 1.6rem
+    }
+}
+
+.links-label[data-v-47bb011d] span {
+    opacity: .5
+}
+
+@media only screen and (min-width:834px) {
+    .links-label[data-v-47bb011d] {
+        width: 4.5138888889vw
+    }
+}
+
+.links-list[data-v-47bb011d] {
+    font-size: 2.5rem;
+    font-weight: 350;
+    letter-spacing: -.02em;
+    line-height: 1.2;
+    margin-left: 39.4871794872vw
+}
+
+@media only screen and (min-width:1440px) {
+    .links-list[data-v-47bb011d] {
+        font-size: 2.7rem
+    }
+}
+
+@media only screen and (min-width:834px) {
+    .links-list[data-v-47bb011d] {
+        margin-left: 6.5277777778vw
+    }
+}
+
+.links-list-item[data-v-47bb011d] {
+    position: relative
+}
+
+@media (hover:hover) and (pointer:fine) {
+    .links-list-item[data-v-47bb011d] {
+        transition: opacity .2s
+    }
+
+    .links-list-item[data-v-47bb011d]:has(~.links-list-item:hover),
+    .links-list-item:hover~.links-list-item[data-v-47bb011d] {
+        opacity: .5
+    }
+}
+
+.links-list-icon-wrapper[data-v-47bb011d] {
+    align-items: center;
+    border: 1px solid;
+    border-radius: 6.3rem;
+    color: var(--color-blue);
+    display: none;
+    height: 1.3rem;
+    justify-content: center;
+    position: absolute;
+    right: calc(100% + 3.3rem);
+    top: 50%;
+    transform: translate3d(0, -50%, 0);
+    width: 2.2rem
+}
+
+.router-link-exact-active .links-list-icon-wrapper[data-v-47bb011d] {
+    display: flex
+}
+
+@media (hover:hover) and (pointer:fine) {
+    .links-list-item:hover .links-list-icon-wrapper[data-v-47bb011d] {
+        display: flex
+    }
+}
+
+.logo[data-v-47bb011d] {
+    color: #5e5e5e;
+    grid-column: 1/2;
+    height: auto;
+    margin-top: 19rem;
+    width: 5.3rem
+}
+
+@media only screen and (min-width:834px) {
+    .logo[data-v-47bb011d] {
+        margin-top: 8.3333333333vw
+    }
+}
+
+.legal-links-wrapper[data-v-47bb011d] {
+    font-size: 1.6rem;
+    font-weight: 350;
+    grid-column: 1/-1;
+    letter-spacing: -.02em;
+    line-height: 1.2;
+    margin-top: 2.7rem;
+    opacity: .5
+}
+
+@media only screen and (min-width:834px) {
+    .legal-links-wrapper[data-v-47bb011d] {
+        font-size: 1.4rem
+    }
+}
+
+@media only screen and (min-width:1440px) {
+    .legal-links-wrapper[data-v-47bb011d] {
+        font-size: 1.6rem
+    }
+}
+
+@media only screen and (min-width:834px) {
+    .legal-links-wrapper[data-v-47bb011d] {
+        align-self: flex-end;
+        display: flex;
+        grid-column: 4/6;
+        justify-content: space-between;
+        margin-top: 0
+    }
+}
+
+.legal-links-list[data-v-47bb011d] {
+    display: flex;
+    justify-content: space-between
+}
+
+@media only screen and (min-width:834px) {
+    .legal-links-list[data-v-47bb011d] {
+        -moz-column-gap: 1.7361111111vw;
+        column-gap: 1.7361111111vw;
+        justify-content: flex-start
+    }
+}
+
+.location[data-v-47bb011d] {
+    display: none
+}
+
+@media only screen and (min-width:834px) {
+    .location[data-v-47bb011d] {
+        display: block;
+        opacity: .6
+    }
+}
